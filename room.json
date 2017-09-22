@@ -101,7 +101,7 @@
         {
             "roomName":"Fielding Johnson Law L4",
             "description":"Principal administrative building for the University. Reserved for law students.",
-            "capacity":15,
+            "capacity":16,
             "googleMapUrl":"https://www.google.co.uk/maps/dir//Fielding+Johnson+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.6232986,-1.1336927,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fb068b0c1:0xc3e9a7200fc22ca!2m2!1d-1.1253825!2d52.6205606"
         },
         {
@@ -131,7 +131,7 @@
         {
             "roomName":"Manorcroft in Student Area One",
             "description":"Located in Oadby student village.",
-            "capacity":10,
+            "capacity":16,
             "googleMapUrl":"https://opendata.le.ac.uk/mobappandroid/map.aspx?lat=52.609263&lng=-1.084749&name=Manorcroft%20in%20Student%20Area%20One&pcs=15"
         },
         {
