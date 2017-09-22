@@ -135,13 +135,13 @@
             libaryRooms.forEach(function (room, index) {
                 room.pcAvailable = parseInt(libaryPCAvailable[index]);
                 room.pcInUse = room.capacity - room.pcAvailable;
-                room.status = (room.pcAvailable > (room.capacity / 4)) ? "Busy" : "Quiet";
+                room.status = (room.pcAvailable > (room.capacity / 4)) ? "Quite" : "Busy";
             });
 
             mainBuildingRooms.forEach(function (room, index) {
                 room.pcAvailable = parseInt(mainBuildingPCAvailable[index]);
                 room.pcInUse = room.capacity - room.pcAvailable; 
-                room.status = (room.pcAvailable > (room.capacity / 4)) ? "Busy" : "Quiet";   
+                room.status = (room.pcAvailable > (room.capacity / 4)) ? "Quite" : "Busy";   
             });
 
             //sort by rooms with most available PCs
