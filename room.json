@@ -1,0 +1,144 @@
+{
+    "libary":[
+        {
+            "roomName":"Library AccessAbility Zone",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"
+        },
+        {
+            "roomName":"Library Express Zone",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+        },
+        {
+            "roomName":"Library Graduate Reading Room",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+        },
+        {
+            "roomName":"Library IT Room 1",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+        },
+        {
+            "roomName":"Library IT Room 2",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+        },
+        {
+            "roomName":"Library PC Zone 1.1",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+        },
+        {
+            "roomName":"Library Silent PC Zone 2.1",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+        },
+        {
+            "roomName":"Library Silent PC Zone 2.2",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+        },
+        {
+            "roomName":"Library Zone 3.1",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+        }
+    ],
+    "campus_buildings":[
+        {
+            "roomName":"Adrian 227",
+            "description":"Home to the Biological Sciences department.Connected to the Medical Sciences Building by a bridge across University Road. Located on second floor",
+            "capacity":50,
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//52.623366,-1.12411/@52.623366,-1.1262987,16z/data=!4m8!1m7!3m6!1s0x0:0x0!2zNTLCsDM3JzI0LjEiTiAxwrAwNycyNi44Ilc!3b1!8m2!3d52.623366!4d-1.12411"
+        },
+        {
+            "roomName":"Attenborough 217",
+            "description":"Located near the front of the david wilson libary. Room located on second floor seminar block",
+            "capacity":10,
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//52.621229,+-1.124049/@52.6213031,-1.1240482,12z/data=!3m1!4b1!4m6!4m5!1m0!1m3!2m2!1d-1.124049!2d52.621229"
+        },
+        {
+            "roomName":"Attenborough 219",
+            "description":"Located near the front of the david wilson libary. Room located on second floor seminar block",
+            "capacity":22,
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//52.621229,+-1.124049/@52.6213031,-1.1240482,12z/data=!3m1!4b1!4m6!4m5!1m0!1m3!2m2!1d-1.124049!2d52.621229"
+        },
+        {
+            "roomName":"Bennett F75B",
+            "description":"Home on the Geography Department. Located ",
+            "capacity":48,
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//52.623405,-1.123245/@52.6233855,-1.1244359,17z/data=!4m8!1m7!3m6!1s0x0:0x0!2zNTLCsDM3JzI0LjMiTiAxwrAwNycyMy43Ilc!3b1!8m2!3d52.623405!4d-1.123245"
+        },
+        {
+            "roomName":"Bennett G73",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//52.623307,-1.122804/@52.623307,-1.12937,15z/data=!4m8!1m7!3m6!1s0x0:0x0!2zNTLCsDM3JzIzLjkiTiAxwrAwNycyMi4xIlc!3b1!8m2!3d52.623307!4d-1.122804"
+        },
+        {
+            "roomName":"Charles Wilson 304",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//Charles+Wilson+Building,+Leicester/@52.6218578,-1.1237805,17z/data=!4m16!1m7!3m6!1s0x4877612fe4589b35:0x2d98dff527f5473!2sCharles+Wilson+Building,+Leicester!3b1!8m2!3d52.6218934!4d-1.1237262!4m7!1m0!1m5!1m1!1s0x4877612fe4589b35:0x2d98dff527f5473!2m2!1d-1.1237262!2d52.6218934"
+        },
+        {
+            "roomName":"Charles Wilson 305",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//Charles+Wilson+Building,+Leicester/@52.6218578,-1.1237805,17z/data=!4m16!1m7!3m6!1s0x4877612fe4589b35:0x2d98dff527f5473!2sCharles+Wilson+Building,+Leicester!3b1!8m2!3d52.6218934!4d-1.1237262!4m7!1m0!1m5!1m1!1s0x4877612fe4589b35:0x2d98dff527f5473!2m2!1d-1.1237262!2d52.6218934"
+        },
+        {
+            "roomName":"Fielding Johnson Law L4",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//Fielding+Johnson+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.6232986,-1.1336927,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fb068b0c1:0xc3e9a7200fc22ca!2m2!1d-1.1253825!2d52.6205606"
+        },
+        {
+            "roomName":"George Porter S17",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//George+Porter+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.6228483,-1.1249115,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612558935361:0xf93e8424fe904368!2m2!1d-1.124319!2d52.6227222"
+        },
+        {
+            "roomName":"Ken Edwards Building 101",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//Ken+Edwards+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.62138,-1.128624,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612f989c4e51:0x20f6e886bb4d374e!2m2!1d-1.1257994!2d52.6212851"
+        },
+        {
+            "roomName":"Ken Edwards Building 103",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//Ken+Edwards+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.62138,-1.128624,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612f989c4e51:0x20f6e886bb4d374e!2m2!1d-1.1257994!2d52.6212851"
+        },
+        {
+            "roomName":"Ken Edwards Building 323",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//Ken+Edwards+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.62138,-1.128624,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612f989c4e51:0x20f6e886bb4d374e!2m2!1d-1.1257994!2d52.6212851"
+        },
+        {
+            "roomName":"Manorcroft in Student Area One",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl":"https://opendata.le.ac.uk/mobappandroid/map.aspx?lat=52.609263&lng=-1.084749&name=Manorcroft%20in%20Student%20Area%20One&pcs=15"
+        },
+        {
+            "roomName":"MSB G62",
+            "description":"",
+            "capacity":10,
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//Maurice+Shock+Medical+Science+Building+-+University+of+Leicester,+University+Road,+University+Rd,+Leicester+LE1+7RH/@52.623849,-1.1250069,17z/data=!4m15!1m6!3m5!1s0x487761253faf14f9:0x12b8c838407f32cc!2sMaurice+Shock+Medical+Science+Building+-+University+of+Leicester!8m2!3d52.623849!4d-1.1250069!4m7!1m0!1m5!1m1!1s0x487761253faf14f9:0x12b8c838407f32cc!2m2!1d-1.1250069!2d52.623849"
+        }
+    ]
+}
