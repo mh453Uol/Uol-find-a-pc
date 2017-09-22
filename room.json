@@ -4,55 +4,64 @@
             "roomName":"Library AccessAbility Zone",
             "description":"",
             "capacity":6,
-            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784",
+            "openingAndClosingTimes": "Monday - Friday - 9:00 AM - 5:00 PM"
         },
         {
             "roomName":"Library Express Zone",
             "description":"Libary ground floor next to service desk",
             "capacity":4,
-            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784",
+            "openingAndClosingTimes": "24/7"            
         },
         {
             "roomName":"Library Graduate Reading Room",
             "description":"Libary first floor. Only postgraduate students and staff",
             "capacity":48,
-            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784",
+            "openingAndClosingTimes": "24/7"                        
         },
         {
             "roomName":"Library IT Room 1",
             "description":"Libary ground floor",
             "capacity":48,
-            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784",
+            "openingAndClosingTimes": "24/7"                        
         },
         {
             "roomName":"Library IT Room 2",
             "description":"Libary ground floor",
             "capacity":25,
-            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784",
+            "openingAndClosingTimes": "24/7"                        
         },
         {
             "roomName":"Library PC Zone 1.1",
             "description":"Libary first floor",
             "capacity":60,
-            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784",
+            "openingAndClosingTimes": "24/7"                        
         },
         {
             "roomName":"Library Silent PC Zone 2.1",
             "description":"Libary second floor.",
             "capacity":45,
-            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784",
+            "openingAndClosingTimes": "24/7"            
         },
         {
             "roomName":"Library Silent PC Zone 2.2",
             "description":"Libary second floor.",
             "capacity":90,
-            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784",
+            "openingAndClosingTimes": "24/7"                        
         },
         {
             "roomName":"Library Zone 3.1",
             "description":"Libary third floor.",
             "capacity":48,
-            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784"            
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//David+Wilson+Library,+University+Rd,+Leicester+LE1+9QD/@52.6203227,-1.1260557,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fc92b7f43:0x49719f842840968f!2m2!1d-1.1250296!2d52.6203784",
+            "openingAndClosingTimes": "24/7"                        
         }
     ],
     "campus_buildings":[
@@ -60,61 +69,71 @@
             "roomName":"Adrian 227",
             "description":"Home to the Biological Sciences department. Students must show a School of Medicine, Biological Sciences or Psychology ID card at the entrance to the Adrian building, or alternatively sign in as a visitor. Rooom located on second floor",
             "capacity":57,
-            "googleMapUrl": "https://www.google.co.uk/maps/dir//52.623366,-1.12411/@52.623366,-1.1262987,16z/data=!4m8!1m7!3m6!1s0x0:0x0!2zNTLCsDM3JzI0LjEiTiAxwrAwNycyNi44Ilc!3b1!8m2!3d52.623366!4d-1.12411"
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//52.623366,-1.12411/@52.623366,-1.1262987,16z/data=!4m8!1m7!3m6!1s0x0:0x0!2zNTLCsDM3JzI0LjEiTiAxwrAwNycyNi44Ilc!3b1!8m2!3d52.623366!4d-1.12411",
+            "openingAndClosingTimes": "Monday - Friday - 8:00 AM - 6:00 PM"
         },
         {
             "roomName":"Attenborough 217",
             "description":"Located near the front of the david wilson libary. Room located on second floor seminar block",
             "capacity":10,
-            "googleMapUrl":"https://www.google.co.uk/maps/dir//52.621229,+-1.124049/@52.6213031,-1.1240482,12z/data=!3m1!4b1!4m6!4m5!1m0!1m3!2m2!1d-1.124049!2d52.621229"
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//52.621229,+-1.124049/@52.6213031,-1.1240482,12z/data=!3m1!4b1!4m6!4m5!1m0!1m3!2m2!1d-1.124049!2d52.621229",
+            "openingAndClosingTimes": "Monday - Friday - 8:00 AM - 5:00 PM"            
         },
         {
             "roomName":"Attenborough 219",
             "description":"Located near the front of the david wilson libary. Room located on second floor seminar block",
             "capacity":22,
-            "googleMapUrl":"https://www.google.co.uk/maps/dir//52.621229,+-1.124049/@52.6213031,-1.1240482,12z/data=!3m1!4b1!4m6!4m5!1m0!1m3!2m2!1d-1.124049!2d52.621229"
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//52.621229,+-1.124049/@52.6213031,-1.1240482,12z/data=!3m1!4b1!4m6!4m5!1m0!1m3!2m2!1d-1.124049!2d52.621229",
+            "openingAndClosingTimes": "Monday - Friday - 8:00 AM - 5:00 PM"                        
         },
         {
             "roomName":"Bennett F75B",
             "description":"Home on the Geography Department.",
             "capacity":48,
-            "googleMapUrl":"https://www.google.co.uk/maps/dir//52.623405,-1.123245/@52.6233855,-1.1244359,17z/data=!4m8!1m7!3m6!1s0x0:0x0!2zNTLCsDM3JzI0LjMiTiAxwrAwNycyMy43Ilc!3b1!8m2!3d52.623405!4d-1.123245"
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//52.623405,-1.123245/@52.6233855,-1.1244359,17z/data=!4m8!1m7!3m6!1s0x0:0x0!2zNTLCsDM3JzI0LjMiTiAxwrAwNycyMy43Ilc!3b1!8m2!3d52.623405!4d-1.123245",
+            "openingAndClosingTimes": "Monday - Friday - 8:00 AM - 6:00 PM"                        
         },
         {
             "roomName":"Bennett G73",
             "description":"Home on the Geography Department.",
             "capacity":19,
-            "googleMapUrl":"https://www.google.co.uk/maps/dir//52.623307,-1.122804/@52.623307,-1.12937,15z/data=!4m8!1m7!3m6!1s0x0:0x0!2zNTLCsDM3JzIzLjkiTiAxwrAwNycyMi4xIlc!3b1!8m2!3d52.623307!4d-1.122804"
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//52.623307,-1.122804/@52.623307,-1.12937,15z/data=!4m8!1m7!3m6!1s0x0:0x0!2zNTLCsDM3JzIzLjkiTiAxwrAwNycyMi4xIlc!3b1!8m2!3d52.623307!4d-1.122804",
+            "openingAndClosingTimes": "Monday - Friday - 8:00 AM - 6:00 PM"                                    
         },
         {
             "roomName":"Charles Wilson 304",
             "description":"Located on third floor, reserved for informatic student.",
             "capacity":45,
-            "googleMapUrl":"https://www.google.co.uk/maps/dir//Charles+Wilson+Building,+Leicester/@52.6218578,-1.1237805,17z/data=!4m16!1m7!3m6!1s0x4877612fe4589b35:0x2d98dff527f5473!2sCharles+Wilson+Building,+Leicester!3b1!8m2!3d52.6218934!4d-1.1237262!4m7!1m0!1m5!1m1!1s0x4877612fe4589b35:0x2d98dff527f5473!2m2!1d-1.1237262!2d52.6218934"
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//Charles+Wilson+Building,+Leicester/@52.6218578,-1.1237805,17z/data=!4m16!1m7!3m6!1s0x4877612fe4589b35:0x2d98dff527f5473!2sCharles+Wilson+Building,+Leicester!3b1!8m2!3d52.6218934!4d-1.1237262!4m7!1m0!1m5!1m1!1s0x4877612fe4589b35:0x2d98dff527f5473!2m2!1d-1.1237262!2d52.6218934",
+            "openingAndClosingTimes": "24/7"                                    
         },
         {
             "roomName":"Charles Wilson 305",
             "description":"Located on third floor, reversed for informatic student.",
             "capacity":37,
-            "googleMapUrl":"https://www.google.co.uk/maps/dir//Charles+Wilson+Building,+Leicester/@52.6218578,-1.1237805,17z/data=!4m16!1m7!3m6!1s0x4877612fe4589b35:0x2d98dff527f5473!2sCharles+Wilson+Building,+Leicester!3b1!8m2!3d52.6218934!4d-1.1237262!4m7!1m0!1m5!1m1!1s0x4877612fe4589b35:0x2d98dff527f5473!2m2!1d-1.1237262!2d52.6218934"
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//Charles+Wilson+Building,+Leicester/@52.6218578,-1.1237805,17z/data=!4m16!1m7!3m6!1s0x4877612fe4589b35:0x2d98dff527f5473!2sCharles+Wilson+Building,+Leicester!3b1!8m2!3d52.6218934!4d-1.1237262!4m7!1m0!1m5!1m1!1s0x4877612fe4589b35:0x2d98dff527f5473!2m2!1d-1.1237262!2d52.6218934",
+            "openingAndClosingTimes": "24/7"                                                
         },
         {
             "roomName":"Fielding Johnson Law L4",
             "description":"Principal administrative building for the University. Reserved for law students.",
             "capacity":16,
-            "googleMapUrl":"https://www.google.co.uk/maps/dir//Fielding+Johnson+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.6232986,-1.1336927,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fb068b0c1:0xc3e9a7200fc22ca!2m2!1d-1.1253825!2d52.6205606"
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//Fielding+Johnson+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.6232986,-1.1336927,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612fb068b0c1:0xc3e9a7200fc22ca!2m2!1d-1.1253825!2d52.6205606",
+            "openingAndClosingTimes": "Monday - Friday - 8:00 AM - 7:00 PM"                                                
         },
         {
             "roomName":"George Porter S17",
             "description":"Home to the Department of Chemistry.Located near Bennet",
             "capacity":22,
-            "googleMapUrl":"https://www.google.co.uk/maps/dir//George+Porter+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.6228483,-1.1249115,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612558935361:0xf93e8424fe904368!2m2!1d-1.124319!2d52.6227222"
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//George+Porter+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.6228483,-1.1249115,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612558935361:0xf93e8424fe904368!2m2!1d-1.124319!2d52.6227222",
+            "openingAndClosingTimes": "Monday - Friday - 8:00 AM - 6:00 PM"                                                
         },
         {
             "roomName":"Ken Edwards Building 101",
             "description":"Home to the School of Management. Located near student union.Room on first floor.",
             "capacity":35,
-            "googleMapUrl":"https://www.google.co.uk/maps/dir//Ken+Edwards+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.62138,-1.128624,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612f989c4e51:0x20f6e886bb4d374e!2m2!1d-1.1257994!2d52.6212851"
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//Ken+Edwards+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.62138,-1.128624,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612f989c4e51:0x20f6e886bb4d374e!2m2!1d-1.1257994!2d52.6212851",
+            "openingAndClosingTimes": "Monday - Friday - 8:00 AM - 6:00 PM"                                                
         },
         {
             "roomName":"Ken Edwards Building 103",
@@ -126,19 +145,22 @@
             "roomName":"Ken Edwards Building 323",
             "description":"Home to the School of Management. Located near student union Located near student union. Room on third floor",
             "capacity":27,
-            "googleMapUrl":"https://www.google.co.uk/maps/dir//Ken+Edwards+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.62138,-1.128624,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612f989c4e51:0x20f6e886bb4d374e!2m2!1d-1.1257994!2d52.6212851"
+            "googleMapUrl":"https://www.google.co.uk/maps/dir//Ken+Edwards+Building+-+University+of+Leicester,+University+Rd,+Leicester+LE1+7RH/@52.62138,-1.128624,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4877612f989c4e51:0x20f6e886bb4d374e!2m2!1d-1.1257994!2d52.6212851",
+            "openingAndClosingTimes": "Monday - Friday - 8:00 AM - 6:00 PM"                                               
         },
         {
             "roomName":"Manorcroft in Student Area One",
             "description":"Located in Oadby student village.",
             "capacity":16,
-            "googleMapUrl":"https://opendata.le.ac.uk/mobappandroid/map.aspx?lat=52.609263&lng=-1.084749&name=Manorcroft%20in%20Student%20Area%20One&pcs=15"
+            "googleMapUrl":"https://opendata.le.ac.uk/mobappandroid/map.aspx?lat=52.609263&lng=-1.084749&name=Manorcroft%20in%20Student%20Area%20One&pcs=15",
+            "openingAndClosingTimes": "Monday - Friday - 8:00 AM - 6:00 PM"                                                
         },
         {
             "roomName":"Maurice Shock G62",
             "description":"Home of the Medical Science. Located on university road opposite O2 Academy.",
             "capacity":41,
-            "googleMapUrl": "https://www.google.co.uk/maps/dir//Maurice+Shock+Medical+Science+Building+-+University+of+Leicester,+University+Road,+University+Rd,+Leicester+LE1+7RH/@52.623849,-1.1250069,17z/data=!4m15!1m6!3m5!1s0x487761253faf14f9:0x12b8c838407f32cc!2sMaurice+Shock+Medical+Science+Building+-+University+of+Leicester!8m2!3d52.623849!4d-1.1250069!4m7!1m0!1m5!1m1!1s0x487761253faf14f9:0x12b8c838407f32cc!2m2!1d-1.1250069!2d52.623849"
+            "googleMapUrl": "https://www.google.co.uk/maps/dir//Maurice+Shock+Medical+Science+Building+-+University+of+Leicester,+University+Road,+University+Rd,+Leicester+LE1+7RH/@52.623849,-1.1250069,17z/data=!4m15!1m6!3m5!1s0x487761253faf14f9:0x12b8c838407f32cc!2sMaurice+Shock+Medical+Science+Building+-+University+of+Leicester!8m2!3d52.623849!4d-1.1250069!4m7!1m0!1m5!1m1!1s0x487761253faf14f9:0x12b8c838407f32cc!2m2!1d-1.1250069!2d52.623849",
+            "openingAndClosingTimes": "Monday - Friday - 8:00 AM - 6:00 PM"                                                            
         }
     ]
 }
